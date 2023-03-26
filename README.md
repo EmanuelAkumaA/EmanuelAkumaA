@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!,+My+name+is+Emanuel+Akuma;I'm+from+Brazil;I+Graduated+Developer+Full+Stack+Python;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmanuelAkumaA&show_icons=true&count_private=true&hide_border=true&title_color=ADFF2F&icon_color=00FFFF&text_color=c9d1d9&bg_color=000000" alt="Caroline Barbosa github stats" /> 
+  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmanuelAkumaA&show_icons=true&count_private=true&hide_border=true&title_color=ADFF2F&icon_color=00FFFF&text_color=c9d1d9&bg_color=000000" alt="EmanuelAkumaA github stats" /> 
   <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelAkumaA&layout=compact&hide_border=true&title_color=ADFF2F&text_color=c9d1d9&bg_color=000000" />
 </div>
 
