@@ -1,3 +1,5 @@
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!,+My+name+is+Emanuel+Akuma;I'm+from+Brazil;I+Graduated+Developer+Full+Stack+Python;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -8,6 +10,15 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EmanuelAkumaA&bg_color=0d0c0d&color=6acb1a&line=1cb5e9&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+<div>
+  <div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmanuelAkumaA&theme=merko" alt="EmanuelAkumaA" />
+  </div>
+</div>
+<br>
+<br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EmanuelAkumaA&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
